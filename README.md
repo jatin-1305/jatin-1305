@@ -15,10 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sakshambhambot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sakshambhambot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saksham-bhambota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-bhambota/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saksham.bhambota_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saksham.bhambota_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sakksshhaamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakksshhaamm" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sakksshhaamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sakksshhaamm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-aggarwal-130501/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-aggarwal-130501/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jatinagg_1305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jatinagg_1305/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jatin_1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jatin_1305" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +25,6 @@
 width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a 
 href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakksshhaamm&show_icons=true&locale=en&layout=compact" alt="sakksshhaamm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-1305&show_icons=true&locale=en&layout=compact" alt="jatin-1305" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakksshhaamm&show_icons=true&locale=en" alt="sakksshhaamm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin-1305&show_icons=true&locale=en" alt="jatin-1305" /></p>
