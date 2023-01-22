@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakksshhaamm&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-1305" /> </p>
 
-<p align="left"> <a href="https://github.com/jatin-1305/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-1305" alt="jatin-1305" /></a> </p>
-
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-1305" alt="jatin-1305" /></a> </p>
+-->
 
 - 🌱 I’m currently learning **css, JavaScript, react js, Next.js**
 
