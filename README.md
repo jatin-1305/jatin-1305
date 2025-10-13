@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jatinagg2001@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1a8urnj3t6IIRhtdxGE8iFvD_yGJeVNty/view
+- 📄 Know about my experiences https://drive.google.com/file/d/1311KfH_7353mBm8JQLCOcS-YbgpPh-dj/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
