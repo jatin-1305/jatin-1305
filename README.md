@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-1305" alt="jatin-1305" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **css, JavaScript, react js, Next.js**
 
 - 📫 How to reach me **jatinagg2001@gmail.com**
 
