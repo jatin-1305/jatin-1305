@@ -1,30 +1,55 @@
 <h1 align="center">Hi 👋, I'm Jatin Aggarwal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Software Developer | Problem Solver | Building Scalable Solutions</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-1305&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-1305" /> </p> -->
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-1305" alt="jatin-1305" /></a> </p>
--->
-
-
-- 📫 How to reach me **jatinagg2001@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1311KfH_7353mBm8JQLCOcS-YbgpPh-dj/view?usp=sharing
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@jatinagg13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jatinagg13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-aggarwal-130501/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-aggarwal-130501/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jatinagg_1305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jatinagg_1305/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jatin_1305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jatin_1305" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatin-1305&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a 
-href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-1305&show_icons=true&locale=en&layout=compact" alt="jatin-1305" /></p>
+## 🚀 About Me
+- 💻 Passionate about **Software Development & Backend Engineering**
+- 🌱 Currently improving my skills in **System Design & Data Engineering**
+- 📫 Reach me at: **jatinagg2001@gmail.com**
+- 📄 View my resume:  
+  <a href="https://drive.google.com/file/d/1BeNaClObDEwjcMLN9aqhDS9GqqOUQjgu/view?usp=drive_link" target="_blank">Resume</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin-1305&show_icons=true&locale=en" alt="jatin-1305" /></p>
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/jatinagg13" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jatin-aggarwal-130501/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/jatinagg_1305/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/jatin_1305" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,mysql,oracle,arduino,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin-1305&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-1305&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-1305&theme=tokyonight" />
+</p>
