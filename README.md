@@ -31,13 +31,39 @@
 
 ## 🧠 Coding Profiles
 
+<!-- ================= LEETCODE ================= -->
+<h2 align="center">🟠 LeetCode Profile</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jatin_agg/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://leetcode.com/u/jatin_agg/">
     <img src="https://leetcard.jacoblin.cool/jatin_agg?theme=dark&font=Nunito&ext=contest" />
   </a>
 </p>
 
-<h3 align="center">🏅 HackerRank Badges</h3>
+<p align="center">
+  🔥 <b>300+ Problems Solved</b> &nbsp; • &nbsp;
+  📈 <b>Contest Rating: 1600+</b> &nbsp; • &nbsp;
+  🚀 <b>Consistent Growth</b>
+</p>
+
+---
+
+<!-- ================= HACKERRANK ================= -->
+<h2 align="center">🟢 HackerRank Profile</h2>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/jatin_1305" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">🏅 Badges</h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/jatin_1305">
@@ -61,11 +87,10 @@
 </p>
 
 <p align="center">
-  ✅ <b>Consistent Problem Solver</b> &nbsp; • &nbsp;
-  🏆 <b>Competitive Coding Practice</b> &nbsp; • &nbsp;
-  📊 <b>Strong DSA & SQL Skills</b>
+  🏆 <b>5★ in Multiple Domains</b> &nbsp; • &nbsp;
+  💡 <b>Strong Problem Solving</b> &nbsp; • &nbsp;
+  📊 <b>DSA + SQL Focused</b>
 </p>
-
 ---
 
 ## 🌐 Connect With Me
