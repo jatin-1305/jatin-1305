@@ -35,16 +35,11 @@
 <h2 align="center">🟠 LeetCode Profile</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/jatin_agg/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/jatin_agg/">
     <img src="https://leetcard.jacoblin.cool/jatin_agg?theme=dark&font=Nunito&ext=contest" />
   </a>
 </p>
+
 
 <p align="center">
   🔥 <b>300+ Problems Solved</b> &nbsp; • &nbsp;
